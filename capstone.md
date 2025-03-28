@@ -1,24 +1,6 @@
 **HI-Labs Training Program – Detailed Project Document with Diagrams and Code**
 
----
 
-# **Phase 1 Project – Data Extraction & Analysis CLI Tool**
-
-### *(Phase 1 section retained as is – PostgreSQL and MySQL version already implemented)*
-
----
-
-# **Phase 2 Project – Automated Data Ingestion Pipeline**
-
-### *(Phase 2 section retained as updated)*
-
----
-
-# **Phase 3 Project – Big Data Analytics Pipeline**
-
-### *(Phase 3 section retained as updated)*
-
----
 
 # **Capstone Project – End-to-End Hospital Analytics Platform**
 
